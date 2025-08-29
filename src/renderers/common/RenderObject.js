@@ -1,6 +1,7 @@
 import { hash, hashString } from '../../nodes/core/NodeUtils.js';
 
 let _id = 0;
+// read_code(8_29_renderobject)
 
 function getKeys( obj ) {
 
