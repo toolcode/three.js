@@ -1,4 +1,4 @@
-# three.js
+# three.js(read_code)
 
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
