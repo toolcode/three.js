@@ -438,6 +438,7 @@ class WebGLBackend extends Backend {
 	 *
 	 * @param {RenderContext} renderContext - The render context.
 	 */
+	// read_code(8_29)
 	beginRender( renderContext ) {
 
 		const { state } = this;
